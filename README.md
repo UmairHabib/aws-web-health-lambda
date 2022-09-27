@@ -1,5 +1,5 @@
 
-# SculptorRepo
+# AWS Web Health Lambda
 =======
 # Welcome to Sprint2!
 
