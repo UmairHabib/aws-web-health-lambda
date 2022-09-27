@@ -1,27 +1,7 @@
 
-# SculptorRepo
-=======
-# Welcome to Sprint2!
+# Welcome to your CDK Python project!
 
-This is the readme file for Sprint 2 
-
-## Tasks for Monday
-
-Write WHLambda funciton to post our metrices on cloudwatch and get availability and latency metrics
-
-## Tasks for Tuesday
-
-Store the data of availability and latency metrics on cloudwatch
-
-## Tasks for Wednesday
-
-Create alarms and SNS notification topic and subscribe to email and lambda function
-
-## Tasks for Thursday
-
-Create dynamodb table and store the notifications data on the table
-
-## Other Instructions
+This is a blank project for CDK development with Python.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
