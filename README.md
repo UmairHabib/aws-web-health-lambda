@@ -1,9 +1,5 @@
 
 # AWS Web Health Lambda
-=======
-# Welcome to Sprint2!
-
-This is the readme file for Sprint 2 
 
 ## Tasks for Monday
 
